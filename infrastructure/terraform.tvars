@@ -1,0 +1,6 @@
+db_administrator_login    = "nkayere"
+db_administrator_password = "Mounira18"
+# Optionnel : vous pouvez aussi surcharger d'autres variables
+environment = "dev"
+project_name = "junia-isen-api"
+location = "West Europe"
